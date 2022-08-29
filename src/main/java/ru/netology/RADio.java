@@ -1,5 +1,5 @@
 package ru.netology;
-public class Radio {
+public class RADio {
 
     private int currentStation;     // Номер текущей (прослушиваемой) радиостанции
     private int maxStation = 10;    // Максимальный номер радиостанции
